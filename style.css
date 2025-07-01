@@ -18,3 +18,14 @@ h1 {
 p{
     font-size: 30px;
 }
+
+section {
+    background-color: blueviolet;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 10%;
+}
