@@ -33,3 +33,12 @@ img{
     width: 200px;
     height: 300px;
 }
+.outrasrecomendacoes{
+    display:flex;
+    overflow-x: auto;
+    gap:0.9pix;
+    padding-left: 20pix;
+}
+h2{
+    padding-left: 20pix;
+}
